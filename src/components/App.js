@@ -6,6 +6,8 @@ const App = () => {
   return (
     <div>
         {/* Do not remove the main div */}
+        <h1>Enter your name</h1>
+        <input type="text" ></input>
     </div>
   )
 }
